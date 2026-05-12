@@ -1,0 +1,4 @@
+interface:
+  display_name: "Search Article"
+  short_description: "Search and synthesize academic articles across research fields"
+  default_prompt: "Find recent papers on a research topic and summarize the research frontier."
