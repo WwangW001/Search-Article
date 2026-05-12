@@ -51,3 +51,8 @@ For each paper, include a stable link and separate verified facts from inference
 - Prefer primary sources over secondary summaries.
 - If the topic is broad, produce a representative map rather than pretending to be exhaustive.
 - If the user gives exclusions, apply them explicitly and mention borderline items.
+
+## Acknowledgments
+-This skill references the skill for searching papers in the field of remote sensing research, found at https://github.com/limi124/remote-sensing-research-radar/blob/main/skills/remote-sensing-research-radar/SKILL.md.
+
+This skill further expands the searchable research areas beyond just remote sensing.
